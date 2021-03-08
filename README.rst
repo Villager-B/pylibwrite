@@ -50,9 +50,11 @@ Tools Version
 How to Install and Run
 =========================
 
-Get the code from the repository and execute it.
+1. PYPI
 
-The code will be uploaded to PyPI in the future. 
+    $ pip install pylibwrite
+
+2. Get the code from the repository and execute it.
 
     $ git clone https://github.com/Villager-B/pylibwrite.git
 
@@ -73,7 +75,7 @@ I'm sure there are other libraries that don't work as well.
 
 Please let me know.
 
-:Libraries that are currently supported:
+:Libraries that are currently supported: 
 
 .. csv-table::
     :header: "lib name", "package name"
