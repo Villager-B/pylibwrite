@@ -2,6 +2,9 @@
 pylibwrite
 ==================
 
+.. image:: img/logo.jpg
+    :alt: Logo
+
 OverView
 ==========
 
