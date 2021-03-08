@@ -27,8 +27,8 @@ sample python file ::
     import matplotlib.pyplot as plt
     import datetime
     import time
-    import japanize_matplotlib
-    import pandas as pd
+      import japanize_matplotlib
+     import pandas as pd
     from tomato import tomatoaaaaaaaaas
     # import sadaa
     # from sdadda
