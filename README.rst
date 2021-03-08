@@ -50,7 +50,7 @@ Tools Version
 How to Install and Run
 =========================
 
-1. PYPI
+1. PYPI(https://pypi.org/project/pylibwrite/)
 
     $ pip install pylibwrite
 
