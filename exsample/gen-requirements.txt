@@ -1,0 +1,6 @@
+japanize-matplotlib
+requests
+numpy
+tomato
+pandas
+matplotlib
