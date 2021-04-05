@@ -8,7 +8,7 @@ pylibwrite
 
 .. image:: https://img.shields.io/pypi/v/pylibwrite
 .. image:: https://img.shields.io/pypi/wheel/pylibwrite
-.. image:: https://img.shields.io/pypi/dm/pylibwrite?color=%2377c7c1
+.. image:: https://pepy.tech/badge/pylibwrite
 
 
 OverView
