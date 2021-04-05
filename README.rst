@@ -62,6 +62,10 @@ How to Install and Run
 1. PYPI(https://pypi.org/project/pylibwrite/)
 
     $ pip install pylibwrite
+    
+    $ pylibwrite
+
+    create gen-requirements.txt
 
 2. Get the code from the repository and execute it.
 
